@@ -1,0 +1,15 @@
+.venv/
+.env
+infra/config_projeto.json
+__pycache__/
+*.pyc
+*.egg-info/
+*.zip
+dist/
+.vscode/
+*.pem
+resposta.json
+infra/payload_teste.json
+infra/payload_teste2.json
+infra/filtro_custo.json
+scripts/vpc_ids.json
